@@ -1,0 +1,39 @@
+# Site
+name: All Faucets
+description: The full list of cryptocurrency faucets, sorted by their value and reputation.
+meta_description: "We list the best cryptocurrency faucets sites."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+paginate: 12
+baseurl:
+email: 'cryptopayoff@gmail.com'
+google_analytics: 'UA-134453844-1'
+disqus: 'all-faucets'
+
+# Authors
+authors:
+  CryptoPayoff:
+    name: CryptoPayoff
+    display_name: CryptoPayoff
+    gravatar:
+    email: cryptopayoff@gmail.com
+    web: http://www.all-faucets.com/
+    twitter: https://twitter.com/CryptoPayoff
+    description: "Keeping things real."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Other
+markdown: kramdown
+highlighter: rouge
