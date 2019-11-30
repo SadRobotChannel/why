@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Five Whys
+title: Problem Solving with 5 Whys
 comments: false
 img: http://www.all-faucets.com/assets/images/all-faucets.com-thumb.png
 alt: Cryptocurrency faucets are reward systems in a form of a website or an app that dispense free coins.
