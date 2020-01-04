@@ -47,6 +47,6 @@ What is your experience with crypto faucets? Have you tried any of them? Do you 
 
 We love to develop new products. This site, wwww.all-faucets.com, is ready! It's simple, functional and it appears on the first page of <a href="https://www.google.com/search?q=best+cryptocurrency+faucets&oq=best&aqs=chrome.0.69i59j69i57j69i59j69i61l2j69i60j69i65l2.1070j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Google</a>! This took over 1 year and a lot of hours.
 
-There's a <a href="https://uk.auctions.godaddy.com/trpItemListing.aspx?&miid=309518444" target="_blank">7-day auction</a> running now at GoDaddy, with a starting price of $100. Bid, win and own this site within a week! We will transfer the domain name and the full content of this website to you.
+There's a <a href="https://uk.auctions.godaddy.com/trpItemListing.aspx?&miid=309578665" target="_blank">7-day auction</a> running now at GoDaddy, with a starting price of $100. Bid, win and own this site within a week! We will transfer the domain name and the full content of this website to you.
 
 As a bonus, we will also show you how we host this site for free. Yes, secure and reliable hosting without a monthly charge. Happy to answer your questions via email at <i>internalizer@protonmail.com</i>
